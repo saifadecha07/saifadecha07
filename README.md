@@ -37,7 +37,7 @@
 
 
 
-## 🏆 Certificates & Achievements
+##  Certificates & Achievements
 ![15967](https://github.com/user-attachments/assets/a1321a0f-344f-4a34-9366-bfafd2922576)
 
 
