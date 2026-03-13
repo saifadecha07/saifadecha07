@@ -20,7 +20,6 @@
 -  Currently building a mobile application using Flutter & Dart.
 -  Working on engaging projects like **Face Recognition** systems.
   
-***I want to be a valuable person in the organization, someone who can contribute as much as many people***
 
 ---
 
