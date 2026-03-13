@@ -53,8 +53,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ใส่_USERNAME_GITHUB_ของคุณ&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
