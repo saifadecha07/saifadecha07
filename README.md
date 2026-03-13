@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center"> I'm Saifa Decha 👋</h1>
 
-<!--
-**saifadecha07/saifadecha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Computer Engineering student passionate about Data Science, AI, and Software Development.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="[(https://www.youtube.com/@saifa248)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="[ใส่_LINK_LINKEDIN_ตรงนี้](https://www.linkedin.com/in/saifa-decha-9258903a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently studying **Computer Engineering** at Thammasat University.
+- 🌱 Exploring and deepening my knowledge in **Data Science, AI, and Software**.
+- 🚀 Currently building a mobile application using Flutter & Dart.
+- 🤖 Working on engaging projects like **Face Recognition** systems.
+***I want to be a valuable person in the organization, someone who can contribute as much as many people***
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+---
+
+
+## 🏆 Certificates & Achievements
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="![15967](https://github.com/user-attachments/assets/3b281b26-3a18-4fe3-ad72-6195490b289c)" width="400px;" alt="Certificate 1"/><br />
+      <b>นักเรียนเเลกเปลี่ยนที่ประเทศออสเตรเลีย</b>
+    </td>
+    <td align="center">
+      <img src="![15968](https://github.com/user-attachments/assets/7f6cdf61-dff2-4753-8d34-a59c058de33e)
+" width="400px;" alt="Certificate 2"/><br />
+      <b>ชนะเลิศเเข่งขันทักษะวิชาการคณิตศาสตร์180iq ระดับเขตกรุงเทพ</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ใส่_USERNAME_GITHUB_ของคุณ&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
