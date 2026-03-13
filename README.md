@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Saifa Decha 👋</h1>
+<h1 align="center"> I'm Saifa Decha </h1>
 
 <h3 align="center">A Computer Engineering student passionate about Data Science, AI, and Software Development.</h3>
 
@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Currently studying **Computer Engineering** at Thammasat University.
-- 🌱 Exploring and deepening my knowledge in **Data Science, AI, and Software**.
-- 🚀 Currently building a mobile application using Flutter & Dart.
-- 🤖 Working on engaging projects like **Face Recognition** systems.
+-  Currently studying **Computer Engineering** at Thammasat University.
+-  Exploring and deepening my knowledge in **Data Science, AI, and Software**.
+-  Currently building a mobile application using Flutter & Dart.
+-  Working on engaging projects like **Face Recognition** systems.
 ***I want to be a valuable person in the organization, someone who can contribute as much as many people***
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
