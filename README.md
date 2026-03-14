@@ -14,7 +14,7 @@
 ---
 
 ##  About Me
-
+-  Everything here is self study beyond the class, My class only teaches math and science.
 -  Currently studying **Computer Engineering** at Thammasat University.
 -  Exploring and deepening my knowledge in **Data Science, AI, and Software**.
 -  Currently building a mobile application using Flutter & Dart.
