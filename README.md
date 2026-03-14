@@ -41,7 +41,7 @@
 
 
 ## Resume @ Certificates
-<a href="" target="_blank">
+<a href="https://github.com/saifadecha07/My-Resume.git" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
 </a>
 
