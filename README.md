@@ -40,8 +40,13 @@
 
 
 
-##  Certificates & Achievements
-![15967](https://github.com/user-attachments/assets/a1321a0f-344f-4a34-9366-bfafd2922576)
+## Resume @ Certificates
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Certificates-View%20Here-green?style=for-the-badge&logo=bamboo&logoColor=white" alt="Certificates">
+</a>
 
 
 
