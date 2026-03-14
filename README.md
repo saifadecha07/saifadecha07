@@ -44,9 +44,6 @@
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
 </a>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Certificates-View%20Here-green?style=for-the-badge&logo=bamboo&logoColor=white" alt="Certificates">
-</a>
 
 
 
