@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Saifa Decha </h1>
 
-<h3 align="center">A Computer Engineering student passionate about Data Science, AI, and Software Development.</h3>
+<h3 align="center">A Computer Engineering student interest about Data Science, AI, and Software Development.</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@saifa248" target="_blank">
@@ -23,7 +23,7 @@
 
 ---
 
-##  Tech Stack & Tools
+##  Tech Stack and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -40,10 +40,23 @@
 
 
 
-## Resume @ Certificates
-<a href="https://github.com/saifadecha07/My-Resume.git" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20Here-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
-</a>
+## Resume and Certificates
+<details>
+  <summary><b>Click here to view Resume</b></summary>
+  <br>
+  <p align="center">
+    <img src="" width="600" alt="Resume Saifa Decha">
+  </p>
+</details>
+
+<details>
+  <summary><b>Click here to view Certificates</b></summary>
+  <br>
+  <p align="center">
+    <img src="" width="400">
+    <img src="" width="400">
+  </p>
+</details>
 
 
 
