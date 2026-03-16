@@ -45,7 +45,7 @@
   <summary><b>Click here to view Resume</b></summary>
   <br>
   <p align="center">
-    <img src="" width="600" alt="Resume Saifa Decha">
+    <img src="https://github.com/user-attachments/assets/9ed94f57-c376-414a-acbc-635b7a091301" width="600" alt="Resume Saifa Decha">
   </p>
 </details>
 
