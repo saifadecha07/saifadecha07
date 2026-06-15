@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saifa Decha 👋</h1>
 
-<h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI & Data Science Enthusiast | CubeSat Builder</h3>
+<h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI & Data Science | CubeSat Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saifa-decha-9258903a7" target="_blank">
