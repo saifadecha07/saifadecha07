@@ -30,6 +30,16 @@ Computer Engineering student with hands-on experience across backend development
 
 ---
 
+### Experience
+
+**Software Engineer — Backend &amp; DevOps, PromptPost** (2026 – Present)
+- Developing backend services with **NestJS**, **TypeScript**, and **Domain-Driven Design (DDD)** layered architecture (presentation / application / domain / infrastructure).
+- Implemented member management features, role-based access control (RBAC), and JWT-based authentication.
+- Built and maintained **Docker** and **Kubernetes** deployment configurations across multiple environments.
+- Wrote unit and integration tests to meet a 100% coverage threshold on new code.
+
+---
+
 ### Achievements &amp; Recognition
 
 | Award / Recognition | Event | Details |
