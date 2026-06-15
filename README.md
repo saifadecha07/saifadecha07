@@ -32,11 +32,15 @@ Computer Engineering student with hands-on experience across backend development
 
 ### Experience
 
-**Software Engineer — Backend &amp; DevOps, PromptPost** (2026 – Present)
-- Developing backend services with **NestJS**, **TypeScript**, and **Domain-Driven Design (DDD)** layered architecture (presentation / application / domain / infrastructure).
-- Implemented member management features, role-based access control (RBAC), and JWT-based authentication.
-- Built and maintained **Docker** and **Kubernetes** deployment configurations across multiple environments.
-- Wrote unit and integration tests to meet a 100% coverage threshold on new code.
+**Backend Software Engineer (Part-time) — TKC (Turnkey Communication Services)** (Mar 2026 – Present)
+- Developing **PromptPost**, a large-scale national digital postbox backend service for government and public use.
+- Designed and implemented a scalable Role-Based Access Control (RBAC) system for enterprise users with dynamic permission assignment, using **NestJS**, **PostgreSQL**, and **TypeORM**.
+- Engineered secure user onboarding workflows and optimized complex raw SQL queries for cursor-based pagination and filtering.
+- Established comprehensive unit and integration tests with **Jest**, ensuring reliability before production deployment.
+
+**Flight Software Engineer — APSCO CubeSat Competition, Team TH-CIRFLINK** (Oct 2025 – Present)
+- Developed and optimized low-level flight software to execute payload missions and orchestrate hardware subsystems.
+- Presented project progress to international space experts at the APSCO Summer Camp and Interim Engineering Model Review Meeting, Northwestern Polytechnical University, Xi'an, China.
 
 ---
 
@@ -44,8 +48,9 @@ Computer Engineering student with hands-on experience across backend development
 
 | Award / Recognition | Event | Details |
 |---|---|---|
-| 1st Place, Track A: Planetary Signals Lab | OIL SHOCK Hack! — Thailand Earth Day 2026 | Solo competitor; designed, built, and presented "SHOCKWAVE" end-to-end, placing first against teams of up to 10 members |
-| Top 30 Finalist | TU Startup 2026 | "HUGCARE" — caregiver booking platform prototype, advanced to the final 30 teams |
+| Scholarship Recipient | SCG Foundation Scholarship | Awarded for academic merit and technical potential |
+| 1st Place, Track A: Planetary Signals Lab | OIL SHOCK Hack! — Thailand Earth Day 2026 | Solo competitor; built and deployed an end-to-end ML model ("SHOCKWAVE") with a live demo via Docker and Cloudflared, placing first against teams of up to 10 members |
+| Top 30 Finalist | TU Startup 2026 | "HUGCARE" — caregiver booking app; led mobile development (Flutter/Dart) and UI/UX design |
 | Selected Participant | APSCO ACC Summer Camp 2026 (Xi'an, China) | Developed official flight software for Thailand's 3U CubeSat payload engineering model |
 | Project Selection | Responsible AI Hackathon 2026 | Built a prototype that simplifies legal documents and auto-drafts petitions in plain language |
 | Project Selection | Trustworthy AI Workshop Buildathon | Built "Truelab" — a monitoring dashboard for fuel transport operations (trucks, vessels, pipelines, alerts) |
