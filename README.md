@@ -11,6 +11,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OIL%20SHOCK%20HACK%202026-1st%20Place-1f6f43?style=for-the-badge" alt="OIL SHOCK Hack 2026 - 1st Place" />
+  <img src="https://img.shields.io/badge/APSCO%20ACC%20Summer%20Camp%202026-Xi'an,%20China-2563eb?style=for-the-badge" alt="APSCO ACC Summer Camp 2026" />
+  <img src="https://img.shields.io/badge/TU%20Startup%202026-Top%2030%20Finalist-7c3aed?style=for-the-badge" alt="TU Startup 2026 - Top 30 Finalist" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsible%20AI%20Hackathon%202026-Selected-475569?style=for-the-badge" alt="Responsible AI Hackathon 2026" />
+  <img src="https://img.shields.io/badge/Trustworthy%20AI%20Buildathon-Selected-475569?style=for-the-badge" alt="Trustworthy AI Workshop Buildathon" />
+</p>
+
 ---
 
 ### About
