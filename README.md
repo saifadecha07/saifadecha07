@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Saifa Decha</h1>
+<h1 align="center">Saifa Decha</h1>
 
-<h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI & Data Science | CubeSat Builder</h3>
+<h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI &amp; Data Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saifa-decha-9258903a7" target="_blank">
@@ -13,38 +13,40 @@
 
 ---
 
-### Highlights
+### About
 
-- **1st Prize — OIL SHOCK HACK THAILAND 2026**, Track A: Planetary Signals Lab — solo competitor, won against teams of up to 10 members.
-- **APSCO ACC CubeSat Thailand 2026** — built flight software for Thailand's 3U CubeSat engineering model, presented at the APSCO ACC Summer Camp in Xi'an, China.
-- Built end-to-end systems spanning **face recognition**, **gold trading bots**, and **LLM/ML training pipelines**.
-- Currently developing backend services with **NestJS, TypeScript, and DDD architecture**.
+Computer Engineering student with hands-on experience across backend development, applied machine learning, and embedded/aerospace software. Comfortable working across the stack — from production-style backend services (NestJS, TypeScript, PostgreSQL, Docker, Kubernetes) to data pipelines, computer vision systems, and flight software for satellite hardware. Track record of building and shipping complete projects independently under time pressure, including a national hackathon win as a solo competitor.
 
 ---
 
-### About Me
+### Achievements &amp; Recognition
 
-- Studying **Computer Engineering** at Thammasat University.
-- Exploring **Data Science, AI, and Software Engineering** — formal CS fundamentals (OOP, data structures, algorithms) plus a lot of self-study.
-- Building backend systems (NestJS/TypeScript), mobile apps (Flutter/Dart), and embedded/CubeSat flight software (C++).
-- Currently exploring **algorithmic trading** and **applied machine learning**.
+| Award / Recognition | Event | Details |
+|---|---|---|
+| 1st Place, Track A: Planetary Signals Lab | OIL SHOCK Hack! — Thailand Earth Day 2026 | Solo competitor; designed, built, and presented "SHOCKWAVE" end-to-end, placing first against teams of up to 10 members |
+| Top 30 Finalist | TU Startup 2026 | "HUGCARE" — caregiver booking platform prototype, advanced to the final 30 teams |
+| Selected Participant | APSCO ACC Summer Camp 2026 (Xi'an, China) | Developed official flight software for Thailand's 3U CubeSat payload engineering model |
+| Project Selection | Responsible AI Hackathon 2026 | Built a prototype that simplifies legal documents and auto-drafts petitions in plain language |
+| Project Selection | Trustworthy AI Workshop Buildathon | Built "Truelab" — a monitoring dashboard for fuel transport operations (trucks, vessels, pipelines, alerts) |
 
 ---
 
 ### Featured Projects
 
-| Project | Description |
-|---|---|
-| [apsco-acc-cubesat-thailand](https://github.com/saifadecha07/apsco-acc-cubesat-thailand) | Flight software for Thailand's 3U CubeSat payload engineering model — APSCO ACC Summer Camp 2026, Xi'an |
-| [OIL-SHOCK-HACK-THAILAND2026](https://github.com/saifadecha07/OIL-SHOCK-HACK-THAILAND2026) | 1st Prize, Track A: Planetary Signals Lab — solo build |
-| [gold-trading](https://github.com/saifadecha07/gold-trading) | Algorithmic gold trading system |
-| [Face-recognition](https://github.com/saifadecha07/Face-recognition) | Real-time face recognition system |
-| [Hugcare](https://github.com/saifadecha07/Hugcare) | Flutter mobile application |
-| [self-study-and-practice](https://github.com/saifadecha07/self-study-and-practice) | Software engineering fundamentals — DS&A, OOP, LeetCode, data science |
+| Project | Description | Stack |
+|---|---|---|
+| [OIL-SHOCK-HACK-THAILAND2026](https://github.com/saifadecha07/OIL-SHOCK-HACK-THAILAND2026) | National hackathon winning project — SHOCKWAVE turns oil-price shock data into actionable signals | Python |
+| [apsco-acc-cubesat-thailand](https://github.com/saifadecha07/apsco-acc-cubesat-thailand) | Flight software for Thailand's 3U CubeSat payload engineering model, developed for an international summer camp | C++ |
+| [Face-recognition](https://github.com/saifadecha07/Face-recognition) | Real-time face surveillance system for lab access — tracks presence, stores evidence images, exposes a REST API | Python, PostgreSQL, Redis |
+| [gold-trading](https://github.com/saifadecha07/gold-trading) | AI-powered gold (XAU/USD) trading dashboard with technical analysis and Gemini-generated trading signals | Python, Flask, Pandas |
+| [Hugcare](https://github.com/saifadecha07/Hugcare) | Caregiver booking application — TU Startup 2026 Top 30 finalist | Flutter, Dart |
+| [Lab_system_database_project](https://github.com/saifadecha07/Lab_system_database_project) | Lab and equipment management system with role-based booking, repair tracking, and reporting | FastAPI, SQLAlchemy, PostgreSQL |
+| [Truelab_TU_workshop](https://github.com/saifadecha07/Truelab_TU_workshop) | Operations monitoring dashboard for fuel transport — Trustworthy AI Workshop Buildathon | React/JavaScript |
+| [self-study-and-practice](https://github.com/saifadecha07/self-study-and-practice) | Software engineering fundamentals — data structures, algorithms, OOP, data science, NestJS, FastAPI, Docker | Python, TypeScript |
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack &amp; Tools
 
 **Languages**
 
@@ -52,13 +54,13 @@
   <img src="https://skillicons.dev/icons?i=ts,py,cpp,java,dart,lua" />
 </p>
 
-**Backend & Architecture**
+**Backend &amp; Architecture**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,redis" />
 </p>
 
-**Mobile, Web & Tools**
+**Mobile, Web &amp; Tools**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,html,css,docker,kubernetes,git,vscode,linux" />
@@ -77,16 +79,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifadecha07&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifadecha07&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
-### Resume & Certificates
+### Resume &amp; Certificates
 
 <details>
-  <summary><b>Click here to view Resume</b></summary>
+  <summary><b>Resume</b></summary>
   <br>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/9ed94f57-c376-414a-acbc-635b7a091301" width="600" alt="Resume Saifa Decha">
@@ -94,7 +92,7 @@
 </details>
 
 <details>
-  <summary><b>Click here to view Certificates</b></summary>
+  <summary><b>Certificates</b></summary>
   <br>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/5bf5b675-deef-43fd-9a44-12803697937b" width="400">
