@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saifa Decha 👋</h1>
+<h1 align="center">Hi, I'm Saifa Decha</h1>
 
 <h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI & Data Science | CubeSat Builder</h3>
 
@@ -13,30 +13,30 @@
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
-- 🥇 **1st Prize — OIL SHOCK HACK THAILAND 2026**, Track A: Planetary Signals Lab — solo competitor, won against teams of up to 10 members.
-- 🛰️ **APSCO ACC CubeSat Thailand 2026** — built flight software for Thailand's 3U CubeSat engineering model, presented at the APSCO ACC Summer Camp in Xi'an, China.
-- 🤖 Built end-to-end systems spanning **face recognition**, **gold trading bots**, and **LLM/ML training pipelines**.
-- 💻 Currently developing backend services with **NestJS, TypeScript, and DDD architecture**.
+- **1st Prize — OIL SHOCK HACK THAILAND 2026**, Track A: Planetary Signals Lab — solo competitor, won against teams of up to 10 members.
+- **APSCO ACC CubeSat Thailand 2026** — built flight software for Thailand's 3U CubeSat engineering model, presented at the APSCO ACC Summer Camp in Xi'an, China.
+- Built end-to-end systems spanning **face recognition**, **gold trading bots**, and **LLM/ML training pipelines**.
+- Currently developing backend services with **NestJS, TypeScript, and DDD architecture**.
 
 ---
 
 ### About Me
 
-- 🎓 Studying **Computer Engineering** at Thammasat University.
-- 🔍 Exploring **Data Science, AI, and Software Engineering** — formal CS fundamentals (OOP, data structures, algorithms) plus a lot of self-study.
-- 🛠️ Building backend systems (NestJS/TypeScript), mobile apps (Flutter/Dart), and embedded/CubeSat flight software (C++).
-- 📈 Currently exploring **algorithmic trading** and **applied machine learning**.
+- Studying **Computer Engineering** at Thammasat University.
+- Exploring **Data Science, AI, and Software Engineering** — formal CS fundamentals (OOP, data structures, algorithms) plus a lot of self-study.
+- Building backend systems (NestJS/TypeScript), mobile apps (Flutter/Dart), and embedded/CubeSat flight software (C++).
+- Currently exploring **algorithmic trading** and **applied machine learning**.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---|---|
 | [apsco-acc-cubesat-thailand](https://github.com/saifadecha07/apsco-acc-cubesat-thailand) | Flight software for Thailand's 3U CubeSat payload engineering model — APSCO ACC Summer Camp 2026, Xi'an |
-| [OIL-SHOCK-HACK-THAILAND2026](https://github.com/saifadecha07/OIL-SHOCK-HACK-THAILAND2026) | 🥇 1st Prize, Track A: Planetary Signals Lab — solo build |
+| [OIL-SHOCK-HACK-THAILAND2026](https://github.com/saifadecha07/OIL-SHOCK-HACK-THAILAND2026) | 1st Prize, Track A: Planetary Signals Lab — solo build |
 | [gold-trading](https://github.com/saifadecha07/gold-trading) | Algorithmic gold trading system |
 | [Face-recognition](https://github.com/saifadecha07/Face-recognition) | Real-time face recognition system |
 | [Hugcare](https://github.com/saifadecha07/Hugcare) | Flutter mobile application |
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saifadecha07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 📄 Resume & Certificates
+### Resume & Certificates
 
 <details>
   <summary><b>Click here to view Resume</b></summary>
