@@ -1,6 +1,6 @@
 <h1 align="center">Saifa Decha</h1>
 
-<h3 align="center">Computer Engineering Student @ Thammasat University | Backend Developer | AI &amp; Data Engineering</h3>
+<h3 align="center">Computer Engineering Student @ Thammasat University | Software Engineer | AI &amp; Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saifa-decha-9258903a7" target="_blank">
