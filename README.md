@@ -94,14 +94,6 @@ Computer Engineering student with hands-on experience across backend development
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifadecha07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### Resume &amp; Certificates
 
 <details>
